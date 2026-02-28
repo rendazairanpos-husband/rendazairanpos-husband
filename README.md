@@ -1,5 +1,7 @@
 ## .ᐟ こんにちは Hello!
 
+![Example Image](example3.png)
+
 ᵎᵎ ༄ ☕.°  ~ ᵎᵎ ༄
 
 --- .ᐟ 私について About me ⬇ ---
@@ -28,4 +30,9 @@
 - Roblox: Milkshake_Party
 - Epic Games: The_Violet_Viper
 - Discord: ren_.dazaiandranposhusband.
+
+ᵎᵎ ༄ ☕.°  ~ ᵎᵎ ༄
+
+![Example Image](example4.png)
+
 ## .ᐟ さようなら Goodbye!
